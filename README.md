@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sydul.cit.bd](https://medium.com/@sydul.cit.bd)
 
-- 💬 Ask me about **Pyhton , Django, Flask, Fast Api, Django Rest Api, Docker, AWS, Site Deploy and many more...**
+- 💬 Ask me about **Python , Django, Flask, Fast Api, Django Rest Api, Docker, AWS, Site Deploy and many more...**
 
 - 📫 How to reach me **sydulamin6@gmail.com**
 
