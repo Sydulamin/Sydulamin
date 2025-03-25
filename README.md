@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sydul Amin</h1>
 <h3 align="center">A passionate Web and DevOps developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Software Architecture**
+- 🌱 I’m currently learning **Software Architecture, ReactJS, Kubernetes and many more...**
 
 - 💬 Ask me about **Python , Django, Flask, Fast Api, Django Rest Api, Docker, AWS, Site Deploy and many more...**
 
